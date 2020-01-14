@@ -12,6 +12,6 @@ public class UnitTestingMath {
         }catch (AssertionError ar){
             System.out.println("Unit testing failed");
         }
-        
+
     }
 }
