@@ -32,4 +32,16 @@ public class UnitTestingMath {
     public void fabonnaciTestPossitive(){
 
     }
+    @Test
+    public void lowesstNumberPossitive(){
+        int expacted = 1;
+        int actual = FindLowestDifference.lowestNumber();
+        Assert.assertEquals(actual,expacted);
+    }
+    @Test
+    public void lowestNumberNagetive(){
+        int expacted = 40;
+        int actual = FindLowestDifference.lowestNumber();
+        Assert.assertEquals(actual,expacted);
+    }
 }
