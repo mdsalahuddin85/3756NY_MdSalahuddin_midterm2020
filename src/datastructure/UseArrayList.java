@@ -16,27 +16,27 @@ public class UseArrayList {
          * Store all the sorted data into one of the databases.
          *
          */
-//        ArrayList<String> array = new ArrayList<>();
-//        System.out.println("Adding values using add methods.......");
-//        array.add("Robin");
-//        array.add("Wasfi");
-//        System.out.println(array);
-//        array.add(1, "Jay");
-//        array.add(3, "James");
-//        array.add("----");
-//        System.out.println(" ");
-//        System.out.println("Printout the values using while loop with Iterator.....");
-//        Iterator it = array.iterator();
-//        while (it.hasNext()) {
-//            System.out.println(it.next());
-//        }
-//        array.remove(3);
-//        array.remove("----");
-//        System.out.println(" ");
-//        System.out.println("Printout the values using For Each loop.....");
-//        for (String st : array) {
-//            System.out.println(st);
-//        }
+        ArrayList<String> array = new ArrayList<>();
+        System.out.println("Adding values using add methods.......");
+        array.add("Robin");
+        array.add("Wasfi");
+        System.out.println(array);
+        array.add(1, "Jay");
+        array.add(3, "James");
+        array.add("----");
+        System.out.println(" ");
+        System.out.println("Printout the values using while loop with Iterator.....");
+        Iterator it = array.iterator();
+        while (it.hasNext()) {
+            System.out.println(it.next());
+        }
+        array.remove(3);
+        array.remove("----");
+        System.out.println(" ");
+        System.out.println("Printout the values using For Each loop.....");
+        for (String st : array) {
+            System.out.println(st);
+        }
         String url = "jdbc:mysql://localhost/robin?serverTimezone=UTC";
         String user = "root";
         String password = "abcd1234";
