@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="584f81b2-31cb-4576-bc72-6d673ff767f2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/Months.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/AbstractEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/EmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/EmployeeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/FortuneEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/FortuneEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,10 +161,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Pattern" />
-      <item itemvalue="TestNG.UnitTestingMath.lowestNumberNagetive" />
       <item itemvalue="Application.UseArrayList" />
       <item itemvalue="Application.PrimeNumber" />
       <item itemvalue="Application.Numbers" />
+      <item itemvalue="TestNG.UnitTestingMath.lowestNumberNagetive" />
     </list>
     <recent_temporary>
       <list>
